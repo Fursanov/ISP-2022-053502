@@ -1,0 +1,74 @@
+
+{
+	"__type__": 	"function", 
+	"__name__": 	"HELLO", 
+	"__globals__": 
+	{
+		"f": 		"16"
+	}, 
+	"__args__": 
+	{
+		"co_argcount": 		0, 
+		"co_cellvars": 
+		[
+
+		], 
+		"co_code": 
+		[
+			"116", 
+			"0", 
+			"100", 
+			"1", 
+			"107", 
+			"2", 
+			"114", 
+			"16", 
+			"116", 
+			"1", 
+			"100", 
+			"2", 
+			"131", 
+			"1", 
+			"1", 
+			"0", 
+			"100", 
+			"0", 
+			"83", 
+			"0"
+		], 
+		"co_consts": 
+		[
+			"null", 
+			"16", 
+			"'HELLO'"
+		], 
+		"co_filename": 		"/home/kapustka/ISP-2022/json_files/test1.py", 
+		"co_firstlineno": 		5, 
+		"co_flags": 		67, 
+		"co_freevars": 
+		[
+
+		], 
+		"co_kwonlyargcount": 		0, 
+		"co_lnotab": 
+		[
+			"0", 
+			"1", 
+			"8", 
+			"1"
+		], 
+		"co_name": 		"HELLO", 
+		"co_names": 
+		[
+			"'f'", 
+			"'print'"
+		], 
+		"co_nlocals": 		0, 
+		"co_posonlyargcount": 		0, 
+		"co_stacksize": 		2, 
+		"co_varnames": 
+		[
+
+		]
+	}
+}

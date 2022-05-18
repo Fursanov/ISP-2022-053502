@@ -1,0 +1,152 @@
+
+{
+"!__type__!": "!class!",
+ "!__name__!": "!TestClass!",
+ "!HELLO1!": 
+{
+"&__type__": "function",
+ "__name__": "HELLO1",
+ "__globals__": 
+{
+"f": "16"
+}
+,
+ "__args__": 
+{
+"co_argcount": 1,
+ "co_cellvars": [],
+ "co_code": ["116",
+ "0",
+ "100",
+ "1",
+ "107",
+ "2",
+ "114",
+ "16",
+ "116",
+ "1",
+ "100",
+ "2",
+ "131",
+ "1",
+ "1",
+ "0",
+ "100",
+ "0",
+ "83",
+ "0"],
+ "co_consts": ["null",
+ "16",
+ "^HELLO1^"],
+ "co_filename": "/home/kapustka/ISP-2022/json_files/test1.py",
+ "co_firstlineno": 46,
+ "co_flags": 67,
+ "co_freevars": [],
+ "co_kwonlyargcount": 0,
+ "co_lnotab": ["0",
+ "1",
+ "8",
+ "1"],
+ "co_name": "HELLO1",
+ "co_names": ["^f^",
+ "^print^"],
+ "co_nlocals": 1,
+ "co_posonlyargcount": 0,
+ "co_stacksize": 2,
+ "co_varnames": ["^self^&"]
+}
+
+}
+,
+ "!__init__!": 
+{
+"&__type__": "function",
+ "__name__": "__init__",
+ "__globals__": 
+{
+
+}
+,
+ "__args__": 
+{
+"co_argcount": 1,
+ "co_cellvars": [],
+ "co_code": ["100",
+ "0",
+ "83",
+ "0"],
+ "co_consts": ["null"],
+ "co_filename": "/home/kapustka/ISP-2022/json_files/test1.py",
+ "co_firstlineno": 37,
+ "co_flags": 67,
+ "co_freevars": [],
+ "co_kwonlyargcount": 0,
+ "co_lnotab": ["0",
+ "1"],
+ "co_name": "__init__",
+ "co_names": [],
+ "co_nlocals": 1,
+ "co_posonlyargcount": 0,
+ "co_stacksize": 1,
+ "co_varnames": ["^self^&"]
+}
+
+}
+,
+ "!sas!": 
+{
+"&__type__": "function",
+ "__name__": "sas",
+ "__globals__": 
+{
+
+}
+,
+ "__args__": 
+{
+"co_argcount": 2,
+ "co_cellvars": [],
+ "co_code": ["124",
+ "0",
+ "4",
+ "0",
+ "106",
+ "0",
+ "124",
+ "1",
+ "55",
+ "0",
+ "2",
+ "0",
+ "95",
+ "0",
+ "100",
+ "0",
+ "83",
+ "0"],
+ "co_consts": ["null"],
+ "co_filename": "/home/kapustka/ISP-2022/json_files/test1.py",
+ "co_firstlineno": 49,
+ "co_flags": 67,
+ "co_freevars": [],
+ "co_kwonlyargcount": 0,
+ "co_lnotab": ["0",
+ "1"],
+ "co_name": "sas",
+ "co_names": ["^test_int^"],
+ "co_nlocals": 2,
+ "co_posonlyargcount": 0,
+ "co_stacksize": 3,
+ "co_varnames": ["^self^",
+ "^i^&"]
+}
+
+}
+,
+ "!test_bool!": "!false!",
+ "!test_float!": "!3.14!",
+ "!test_int!": "!12345!",
+ "!test_none!": "!null!",
+ "!test_string!": "@Test String@",
+ "!test_tuple!": "![1, 2, 3]!"
+}

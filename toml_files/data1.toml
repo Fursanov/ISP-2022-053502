@@ -1,0 +1,11 @@
+A."int_list".0 = 1
+A."int_list".1 = 2
+A."int_list".2 = 3
+
+A."str_list".0 = "a"
+A."str_list".1 = "b"
+A."str_list".2 = "c"
+
+A."bool_list".0 = true
+A."bool_list".1 = false
+
